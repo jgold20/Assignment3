@@ -72,9 +72,9 @@ public class Calculator {
 	}
 	
 	
-	/** Returns an empty string 
+	/** Returns a string containing the history of all actions on the calculator
 	 * 
-	 * @return ""
+	 * @return history
 	 */
 	public String getHistory () {
 		return history;
